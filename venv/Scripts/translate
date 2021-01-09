@@ -1,0 +1,4 @@
+#!"C:\Users\omkar\PycharmProjects\FinDeSemana Heroku\venv\Scripts\python.exe"
+# EASY-INSTALL-SCRIPT: 'googletrans==3.0.0','translate'
+__requires__ = 'googletrans==3.0.0'
+__import__('pkg_resources').run_script('googletrans==3.0.0', 'translate')
